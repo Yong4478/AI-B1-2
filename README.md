@@ -51,7 +51,6 @@ https://github.com/user-attachments/assets/08ce90fd-5e31-4a5a-8884-079e08f50151
 
 최종 영상 정보
 파일명:AI-based early detection system for electric vehicle battery thermal runaway
-
-
-
-
+영상 길이: 12초
+해상도:1024x1792
+사용 모델:model: sora-2-pro
