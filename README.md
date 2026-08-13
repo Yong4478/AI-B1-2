@@ -36,6 +36,7 @@ https://github.com/user-attachments/assets/d9917424-0cb5-49d2-befb-b25f83df58cd
 -발견된 문제점: 영상에 대한 정보 인식의 부족, 제품 및 주요 스토리 보드 설명의 부재로 인한 현실성 저하, 전반적인 오타 등등 다양한 문제가 발견되었다.
 
 -수정 방안
+
 1.글자 수를 최소화 하여 오타가 눈에 안 보이게 해줘
 
 2.음악이나 인물의 목소리가 들리지 않으니 더 자연스럽게 경고음과 소방차 출동 소리가 들리게 효과음을 추가해 줘
@@ -50,10 +51,15 @@ https://github.com/user-attachments/assets/08ce90fd-5e31-4a5a-8884-079e08f50151
 
 개선점
 전반적인 오타 등등 다양한 문제 -> 글자를 최소화하여 오타 발생을 최소화 
+
 제품 및 주요 스토리 보드 설명의 부재로 인한 현실성 저하->영상의 스토리 추가로 자연스러움과 현실성 추가
 
 최종 영상 정보
+
 파일명:AI-based early detection system for electric vehicle battery thermal runaway
+
 영상 길이: 12초
+
 해상도:1024x1792
+
 사용 모델:model: sora-2-pro
