@@ -63,7 +63,9 @@ https://github.com/user-attachments/assets/08ce90fd-5e31-4a5a-8884-079e08f50151
 사용 모델:model: sora-2-pro
 
 
-
 https://github.com/user-attachments/assets/795ff5f5-5dc1-40f1-b59a-f51d6f2a380d
 
 
+추가 사용 AI: CapCut AI
+
+추가 개선점: 영상 시간을 12초에서 9초로 축소, 영상의 장면 전환에 fade-in/out효과를 추가, 영상의 전반적인 소리 추가.
