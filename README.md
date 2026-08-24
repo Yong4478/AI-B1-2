@@ -54,8 +54,6 @@ https://github.com/user-attachments/assets/08ce90fd-5e31-4a5a-8884-079e08f50151
 
 제품 및 주요 스토리 보드 설명의 부재로 인한 현실성 저하->영상의 스토리 추가로 자연스러움과 현실성 추가
 
-최종 영상 정보
-
 파일명:AI-based early detection system for electric vehicle battery thermal runaway
 
 영상 길이: 12초
@@ -63,3 +61,9 @@ https://github.com/user-attachments/assets/08ce90fd-5e31-4a5a-8884-079e08f50151
 해상도:1024x1792
 
 사용 모델:model: sora-2-pro
+
+
+
+https://github.com/user-attachments/assets/795ff5f5-5dc1-40f1-b59a-f51d6f2a380d
+
+
